@@ -1,4 +1,4 @@
-# Avanade - Treinamento Terraform - VioletGroup
+# Treinamento Terraform
 
 https://github.com/thiago88sp/terraform-treinamento/tree/master
 
